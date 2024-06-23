@@ -3,19 +3,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "752cd657",
+   "id": "aabb0e4d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:35.530405Z",
-     "iopub.status.busy": "2024-06-23T07:44:35.529907Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.162600Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.161432Z"
+     "iopub.execute_input": "2024-06-23T07:47:50.579803Z",
+     "iopub.status.busy": "2024-06-23T07:47:50.579392Z",
+     "iopub.status.idle": "2024-06-23T07:47:53.428898Z",
+     "shell.execute_reply": "2024-06-23T07:47:53.427850Z"
     },
     "papermill": {
-     "duration": 2.642455,
-     "end_time": "2024-06-23T07:44:38.165534",
+     "duration": 2.859044,
+     "end_time": "2024-06-23T07:47:53.431868",
      "exception": false,
-     "start_time": "2024-06-23T07:44:35.523079",
+     "start_time": "2024-06-23T07:47:50.572824",
      "status": "completed"
     },
     "tags": []
@@ -49,19 +49,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "e7312fc7",
+   "id": "4cec92c0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.176622Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.176054Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.644842Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.643566Z"
+     "iopub.execute_input": "2024-06-23T07:47:53.443008Z",
+     "iopub.status.busy": "2024-06-23T07:47:53.442466Z",
+     "iopub.status.idle": "2024-06-23T07:47:53.887714Z",
+     "shell.execute_reply": "2024-06-23T07:47:53.886560Z"
     },
     "papermill": {
-     "duration": 0.477428,
-     "end_time": "2024-06-23T07:44:38.647791",
+     "duration": 0.453811,
+     "end_time": "2024-06-23T07:47:53.890470",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.170363",
+     "start_time": "2024-06-23T07:47:53.436659",
      "status": "completed"
     },
     "tags": []
@@ -83,19 +83,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "36c53542",
+   "id": "182274b3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.659123Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.658625Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.664303Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.663006Z"
+     "iopub.execute_input": "2024-06-23T07:47:53.901862Z",
+     "iopub.status.busy": "2024-06-23T07:47:53.900912Z",
+     "iopub.status.idle": "2024-06-23T07:47:53.906508Z",
+     "shell.execute_reply": "2024-06-23T07:47:53.905211Z"
     },
     "papermill": {
-     "duration": 0.014551,
-     "end_time": "2024-06-23T07:44:38.667156",
+     "duration": 0.013712,
+     "end_time": "2024-06-23T07:47:53.908819",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.652605",
+     "start_time": "2024-06-23T07:47:53.895107",
      "status": "completed"
     },
     "tags": []
@@ -108,19 +108,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "1ef70fa7",
+   "id": "0296b079",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.678587Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.678144Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.748156Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.746898Z"
+     "iopub.execute_input": "2024-06-23T07:47:53.920041Z",
+     "iopub.status.busy": "2024-06-23T07:47:53.919651Z",
+     "iopub.status.idle": "2024-06-23T07:47:53.991943Z",
+     "shell.execute_reply": "2024-06-23T07:47:53.990963Z"
     },
     "papermill": {
-     "duration": 0.078964,
-     "end_time": "2024-06-23T07:44:38.750952",
+     "duration": 0.081724,
+     "end_time": "2024-06-23T07:47:53.995206",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.671988",
+     "start_time": "2024-06-23T07:47:53.913482",
      "status": "completed"
     },
     "tags": []
@@ -144,19 +144,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "9063a0cb",
+   "id": "393e7794",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.762940Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.762500Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.773423Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.772293Z"
+     "iopub.execute_input": "2024-06-23T07:47:54.006930Z",
+     "iopub.status.busy": "2024-06-23T07:47:54.006570Z",
+     "iopub.status.idle": "2024-06-23T07:47:54.016764Z",
+     "shell.execute_reply": "2024-06-23T07:47:54.015732Z"
     },
     "papermill": {
-     "duration": 0.020136,
-     "end_time": "2024-06-23T07:44:38.776197",
+     "duration": 0.019237,
+     "end_time": "2024-06-23T07:47:54.019347",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.756061",
+     "start_time": "2024-06-23T07:47:54.000110",
      "status": "completed"
     },
     "tags": []
@@ -173,19 +173,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "8ded74cc",
+   "id": "767b2140",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.788056Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.787628Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.832239Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.831039Z"
+     "iopub.execute_input": "2024-06-23T07:47:54.030778Z",
+     "iopub.status.busy": "2024-06-23T07:47:54.030385Z",
+     "iopub.status.idle": "2024-06-23T07:47:54.073531Z",
+     "shell.execute_reply": "2024-06-23T07:47:54.072352Z"
     },
     "papermill": {
-     "duration": 0.053881,
-     "end_time": "2024-06-23T07:44:38.835061",
+     "duration": 0.052068,
+     "end_time": "2024-06-23T07:47:54.076324",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.781180",
+     "start_time": "2024-06-23T07:47:54.024256",
      "status": "completed"
     },
     "tags": []
@@ -217,19 +217,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "6c98a278",
+   "id": "9277fb90",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.848122Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.847666Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.906051Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.904735Z"
+     "iopub.execute_input": "2024-06-23T07:47:54.088385Z",
+     "iopub.status.busy": "2024-06-23T07:47:54.087982Z",
+     "iopub.status.idle": "2024-06-23T07:47:54.143516Z",
+     "shell.execute_reply": "2024-06-23T07:47:54.142384Z"
     },
     "papermill": {
-     "duration": 0.068359,
-     "end_time": "2024-06-23T07:44:38.908865",
+     "duration": 0.065101,
+     "end_time": "2024-06-23T07:47:54.146501",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.840506",
+     "start_time": "2024-06-23T07:47:54.081400",
      "status": "completed"
     },
     "tags": []
@@ -695,19 +695,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "12df2d3c",
+   "id": "df3e2483",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.922927Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.922099Z",
-     "iopub.status.idle": "2024-06-23T07:44:38.927973Z",
-     "shell.execute_reply": "2024-06-23T07:44:38.926789Z"
+     "iopub.execute_input": "2024-06-23T07:47:54.159804Z",
+     "iopub.status.busy": "2024-06-23T07:47:54.159398Z",
+     "iopub.status.idle": "2024-06-23T07:47:54.165129Z",
+     "shell.execute_reply": "2024-06-23T07:47:54.163932Z"
     },
     "papermill": {
-     "duration": 0.015712,
-     "end_time": "2024-06-23T07:44:38.930550",
+     "duration": 0.015379,
+     "end_time": "2024-06-23T07:47:54.167788",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.914838",
+     "start_time": "2024-06-23T07:47:54.152409",
      "status": "completed"
     },
     "tags": []
@@ -724,19 +724,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "5f445685",
+   "id": "bd8bda7d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:44:38.945137Z",
-     "iopub.status.busy": "2024-06-23T07:44:38.943747Z",
-     "iopub.status.idle": "2024-06-23T07:45:07.403876Z",
-     "shell.execute_reply": "2024-06-23T07:45:07.402214Z"
+     "iopub.execute_input": "2024-06-23T07:47:54.181489Z",
+     "iopub.status.busy": "2024-06-23T07:47:54.181058Z",
+     "iopub.status.idle": "2024-06-23T07:48:21.036915Z",
+     "shell.execute_reply": "2024-06-23T07:48:21.035428Z"
     },
     "papermill": {
-     "duration": 28.472893,
-     "end_time": "2024-06-23T07:45:07.409392",
+     "duration": 26.86708,
+     "end_time": "2024-06-23T07:48:21.040877",
      "exception": false,
-     "start_time": "2024-06-23T07:44:38.936499",
+     "start_time": "2024-06-23T07:47:54.173797",
      "status": "completed"
     },
     "tags": []
@@ -767,19 +767,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "a40da25b",
+   "id": "925e52e9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:45:07.439042Z",
-     "iopub.status.busy": "2024-06-23T07:45:07.438320Z",
-     "iopub.status.idle": "2024-06-23T07:45:07.476659Z",
-     "shell.execute_reply": "2024-06-23T07:45:07.475053Z"
+     "iopub.execute_input": "2024-06-23T07:48:21.069878Z",
+     "iopub.status.busy": "2024-06-23T07:48:21.069243Z",
+     "iopub.status.idle": "2024-06-23T07:48:21.099218Z",
+     "shell.execute_reply": "2024-06-23T07:48:21.097745Z"
     },
     "papermill": {
-     "duration": 0.058906,
-     "end_time": "2024-06-23T07:45:07.481749",
+     "duration": 0.049354,
+     "end_time": "2024-06-23T07:48:21.103556",
      "exception": false,
-     "start_time": "2024-06-23T07:45:07.422843",
+     "start_time": "2024-06-23T07:48:21.054202",
      "status": "completed"
     },
     "tags": []
@@ -824,19 +824,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "4cab9f2b",
+   "id": "92257e9e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:45:07.513095Z",
-     "iopub.status.busy": "2024-06-23T07:45:07.512254Z",
-     "iopub.status.idle": "2024-06-23T07:45:08.098628Z",
-     "shell.execute_reply": "2024-06-23T07:45:08.097461Z"
+     "iopub.execute_input": "2024-06-23T07:48:21.134382Z",
+     "iopub.status.busy": "2024-06-23T07:48:21.133729Z",
+     "iopub.status.idle": "2024-06-23T07:48:21.711434Z",
+     "shell.execute_reply": "2024-06-23T07:48:21.710404Z"
     },
     "papermill": {
-     "duration": 0.605033,
-     "end_time": "2024-06-23T07:45:08.101452",
+     "duration": 0.596727,
+     "end_time": "2024-06-23T07:48:21.714098",
      "exception": false,
-     "start_time": "2024-06-23T07:45:07.496419",
+     "start_time": "2024-06-23T07:48:21.117371",
      "status": "completed"
     },
     "tags": []
@@ -890,19 +890,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "35d8f758",
+   "id": "2c714d92",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T07:45:08.117017Z",
-     "iopub.status.busy": "2024-06-23T07:45:08.116599Z",
-     "iopub.status.idle": "2024-06-23T07:45:09.906195Z",
-     "shell.execute_reply": "2024-06-23T07:45:09.905100Z"
+     "iopub.execute_input": "2024-06-23T07:48:21.729013Z",
+     "iopub.status.busy": "2024-06-23T07:48:21.728347Z",
+     "iopub.status.idle": "2024-06-23T07:48:23.538673Z",
+     "shell.execute_reply": "2024-06-23T07:48:23.537365Z"
     },
     "papermill": {
-     "duration": 1.800721,
-     "end_time": "2024-06-23T07:45:09.909045",
+     "duration": 1.820826,
+     "end_time": "2024-06-23T07:48:23.541530",
      "exception": false,
-     "start_time": "2024-06-23T07:45:08.108324",
+     "start_time": "2024-06-23T07:48:21.720704",
      "status": "completed"
     },
     "tags": []
@@ -970,7 +970,7 @@
     "\n",
     "\n",
     "\n",
-    "combined_df_fin.to_csv('/kaggle/working/final_result.csv', index=False)\n",
+    "combined_df_fin.to_csv('/kaggle/working/submission.csv', index=False)\n",
     "\n",
     "os.remove('/kaggle/working/input_of_test_data.csv')\n",
     "\n",
@@ -981,13 +981,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "62b32e7e",
+   "id": "6a04b42f",
    "metadata": {
     "papermill": {
-     "duration": 0.006401,
-     "end_time": "2024-06-23T07:45:09.922217",
+     "duration": 0.006329,
+     "end_time": "2024-06-23T07:48:23.554708",
      "exception": false,
-     "start_time": "2024-06-23T07:45:09.915816",
+     "start_time": "2024-06-23T07:48:23.548379",
      "status": "completed"
     },
     "tags": []
@@ -1031,14 +1031,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 38.14834,
-   "end_time": "2024-06-23T07:45:10.550473",
+   "duration": 36.798258,
+   "end_time": "2024-06-23T07:48:24.182823",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-23T07:44:32.402133",
+   "start_time": "2024-06-23T07:47:47.384565",
    "version": "2.5.0"
   }
  },
